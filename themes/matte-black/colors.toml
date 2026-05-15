@@ -3,7 +3,7 @@ cursor = "#eaeaea"
 foreground = "#bebebe"
 background = "#121212"
 selection_foreground = "#bebebe"
-selection_background = "#333333"
+selection_background = "#515151"
 
 bg = "#121212"
 lighter_bg = "#1e1e1e"
